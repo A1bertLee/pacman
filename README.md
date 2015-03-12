@@ -2,7 +2,8 @@
 
 Pacman is a flat and responsive design theme for [Hexo](http://hexo.io).
 
-[Demo](http://A-limon.github.io/pacman) || [Alimon's Blog](http://yangjian.me)
+[Demo](https://github.com/Voidly/pacman) || [Voidy's Blog](http://voidy.net)
+[原作者](http://A-limon.github.io/pacman)
 
 中文说明请访问[这里](http://A-limon.github.io/pacman/hello/introducing-pacman-theme/)
 ##Installation
